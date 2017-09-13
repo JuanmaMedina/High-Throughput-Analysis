@@ -1,2 +1,2 @@
 # High-throughput
-Bioinformatics of high-troughput analysis course, University of Copenhagen
+Assignments performed during the Bioinformatics of high-troughput analysis course, at the University of Copenhagen.
